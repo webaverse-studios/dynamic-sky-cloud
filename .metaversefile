@@ -1,0 +1,6 @@
+{
+  "name": "sky",
+  "description": "",
+  "start_url": "index.js",
+  "components": []
+}
